@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Feijoada",
+    "description": "Feijoada é um dos pratos típicos mais conhecidos e populares da culinária brasileira.",
+    "photo": "/assets/pratos/Feijoada.png",
+    "size": 400,
+    "serving": 1,
+    "price": 18.0,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Graos"
+    }
+  },
+  {
+    "title": "Fava",
+    "description": "Rico em amido, nutriente que fornece energia ao organismo, a fava ainda carrega altas taxas de ferro, vitamina do complexo B e magnésio.",
+    "photo": "/assets/pratos/Fava.png",
+    "size": 400,
+    "serving": 2,
+    "price": 25.0,
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": "Graos"
+    }
+  },
+  {
+    "title": "Asinhas Fritas",
+    "description": "Tulipa (asinha) de frango assada no forno crocante.",
+    "photo": "/assets/pratos/AsinhasFritas.png",
+    "size": 350,
+    "serving": 2,
+    "price": 17.0,
+    "id": 3,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Bisteca de Boi",
+    "description": "Bisteca de boi frita e bem sequinha.",
+    "photo": "/assets/pratos/BistecaDeBoi.png",
+    "size": 450,
+    "serving": 1,
+    "price": 18.0,
+    "id": 4,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Bisteca com batatas",
+    "description": "Bisteca de porco, com batatas fritas.",
+    "photo": "/assets/pratos/BistecaComBatatas.png",
+    "size": 550,
+    "serving": 2,
+    "price": 22.0,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Piabas Fritas",
+    "description": "Piabas frescas fritas.",
+    "photo": "/assets/pratos/PiabasAssadas.png",
+    "size": 850,
+    "serving": 2,
+    "price": 18.0,
+    "id": 6,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Caldo Verde",
+    "description": "Caldo de batata com linguiça e couve.",
+    "photo": "/assets/pratos/CaldoVerde.png",
+    "size": 350,
+    "serving": 1,
+    "price": 15.0,
+    "id": 7,
+    "category": {
+      "id": 3,
+      "label": "Veganos"
+    }
+  },
+  {
+    "title": "Sopa de Carne",
+    "description": "Sopa de carne com legumes",
+    "photo": "/assets/pratos/SopaDeCarne.png",
+    "size": 350,
+    "serving": 1,
+    "price": 12.0,
+    "id": 8,
+    "category": {
+      "id": 3,
+      "label": "Veganos"
+    }
+  },
+  {
+    "title": "Rabada",
+    "description": "guisado do rabo do boi, ao qual se adicionam verduras e legumes, como tomate, cebola e pimentão, juntamente com temperos frescos e secos.",
+    "photo": "/assets/pratos/Rabada.png",
+    "size": 500,
+    "serving": 2,
+    "price": 28.0,
+    "id": 9,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Picanha Picada",
+    "description": "Picanha em tiras assada acompanhada de legumes cozidos",
+    "photo": "/assets/pratos/PicanhaPicada.png",
+    "size": 250,
+    "serving": 2,
+    "price": 28.0,
+    "id": 10,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  }
+]
