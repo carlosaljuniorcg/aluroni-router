@@ -14,13 +14,13 @@ export default function Sobre() {
         <img src={casa} alt="Casa Aluroni" />
         <div className={styles.sobreNos__texto}>
           <p>
-            Nós do Aluroni oferecemos a vocês, nossos queridos clientes, a Massa Italiana Caseira mais saborosa e sofisticada de São Paulo! Prezamos pelos ingredientes tradicionais da culinária Italiana, frescos e de excelente qualidade para que sua experiência seja ainda mais intensa!
+            Nós do Sítio da Vovó Goretti oferecemos a vocês, nossos queridos clientes, a comida regional mais saborosa e autêntica de Campina Grande! Prezamos pelos ingredientes tradicionais da culinária Nordestina, frescos e e de excelente qualidade para que sua experiência seja ainda mais intensa!
           </p>
           <p>
-            Também possuímos uma cardápio de carnes com muitas opções de acordo com o seu gosto!
+            Também possuímos um cardápio de comidas regionais com muitas opções de acordo com o seu gosto!
           </p>
           <p>
-            Para acompanhar as massas italianas, Aluroni possui uma reserva de vinhos especiais, que harmonizam perfeitamente com o seu parto, seja carne ou massa!
+            E para acompanhar as nossas comidas regionais, Vovó Goretti possui uma reserva de cachaças especiais, que harmonizam perfeitamente com o seu prato, seja uma entrada ou prato principal.
           </p>
         </div>
       </div>
